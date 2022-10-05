@@ -1,0 +1,1 @@
+This is the initial repo for Spectral Clustering-aware Learning of Embeddings for Speaker Diarisation.
